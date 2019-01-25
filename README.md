@@ -19,3 +19,20 @@ __ini bold__
 [klik sini](https://id.yahoo.com/?p=us)
 
 ![logo](https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1543590720)
+
+menurut wikipedia:
+>bla bla bla
+
+kode untuk bikin function di phyton:
+
+```python
+def halo():
+    print('halo')
+```
+
+untuk bikin commit git:
+
+'''Bash
+$ git init
+$ git add .
+$ git commit -m "test"
